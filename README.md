@@ -34,8 +34,8 @@
    - [Docker](#docker)
      - [Docker Compose](#docker-compose)
      - [Docker CLI](#docker-cli)
-   - Podman 
-      - Quadlets
+   - [Podman](#podman) 
+      - [Quadlets](#quadlets)
 
    - [Binary](#binary)
      - [Running as a systemd service](#running-as-a-systemd-service)
